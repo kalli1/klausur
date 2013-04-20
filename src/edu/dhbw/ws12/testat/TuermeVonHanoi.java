@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  */
 
 public class TuermeVonHanoi {
-	//Test
+	//Test1
 	private static String[][] towerArray;
 	private static int zuege = 0;
 	private static int rekursionen = 0;
