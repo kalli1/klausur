@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Filename: TuermeVonHanoi.java
- * Author: 	Lukas Kämmerer
+ * Author: 	Lukas Kï¿½mmerer
  * 			DHBW-Mannheim
  * Created: 04.12.2012
  *
@@ -12,6 +12,7 @@ import javax.swing.JOptionPane;
  */
 
 public class TuermeVonHanoi {
+	//Test
 	private static String[][] towerArray;
 	private static int zuege = 0;
 	private static int rekursionen = 0;
