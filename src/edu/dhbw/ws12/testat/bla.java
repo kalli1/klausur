@@ -1,5 +1,7 @@
 package edu.dhbw.ws12.testat;
 
+//Konsolentest
+
 /**
  * Filename: bla.java
  * Author: 	Lukas Kämmerer

@@ -1,4 +1,5 @@
 package edu.dhbw.ws12.testat;
+//Konsolentest
 
 import javax.swing.JOptionPane;
 
